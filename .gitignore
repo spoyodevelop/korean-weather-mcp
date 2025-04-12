@@ -1,0 +1,33 @@
+# 1. Python bytecode 및 캐시 디렉토리
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# 2. 가상환경
+.venv/
+venv/
+
+# 3. 환경 변수 파일
+.env
+
+# 4. setuptools, distribution, packaging
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg-info
+pip-wheel-metadata/
+
+# 5. 기타 OS/IDE 관련 파일
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 6. 임시 파일
+*.swp
+*.swo
+*.tmp
