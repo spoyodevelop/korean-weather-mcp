@@ -154,6 +154,6 @@
 ## 참고 자료
 
 - [Model Context Protocol 문서](https://modelcontextprotocol.io/)
-- [기상청 단기예보 API 문서](https://data.kma.go.kr/)
+- [기상청 단기예보 API 문서](https://apihub.kma.go.kr/)
 
 ---
