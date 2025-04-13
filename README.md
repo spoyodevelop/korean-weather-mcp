@@ -58,19 +58,6 @@
 
 > **참고:** FastMCP를 사용할 경우 도구(tool) 기능이 등록된 엔드포인트를 사용하여 요청할 수 있습니다. 만약 엔드포인트 경로가 변경되었다면 스키마 파일에서 최신 정보를 확인하세요.
 
-### 클라이언트 테스트
-
-제공된 클라이언트 코드를 활용하여 MCP 서버를 테스트할 수 있습니다. 예를 들어:
-
-```bash
-# 기본값(서울) 사용
-python korea_weather_client.py
-
-# 특정 도시 지정
-python korea_weather_client.py 부산
-python korea_weather_client.py Seoul
-```
-
 ## 지원하는 지역
 
 다음과 같은 한국의 주요 행정구역이 지원됩니다:
